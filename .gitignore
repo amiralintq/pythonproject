@@ -1,0 +1,7 @@
+.idea/
+.venv/
+
+docker-compose.yml
+
+.env
+project1/
